@@ -7,3 +7,6 @@ number.splice(1, 3);
 var status = ["paid", "unpaid","null","void"];
 //brings back the element in the last position
 status.push()
+
+// Each of my arrays has 4 index positions. ie: in the status array "paid" is
+// position 0 and in the number array "3" is in position 2.
